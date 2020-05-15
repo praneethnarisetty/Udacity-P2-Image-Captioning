@@ -15,4 +15,5 @@ Here's a sumary of the steps involved.
 - Trained the network for nearly 3 hrs using GPU to achieve average loss of about 2%.
 - Obtained outputs for some test images to understand efficiency of the trained network.<br/>
 
+
 ![Alt](https://raw.githubusercontent.com/udacity/CVND---Image-Captioning-Project/master/images/encoder-decoder.png)
